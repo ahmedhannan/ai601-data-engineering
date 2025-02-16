@@ -1,0 +1,751 @@
+region,keyword,interest_score
+Afghanistan,electric vehicle,2
+Albania,electric vehicle,2
+Algeria,electric vehicle,3
+American Samoa,electric vehicle,0
+Andorra,electric vehicle,0
+Angola,electric vehicle,0
+Anguilla,electric vehicle,0
+Antarctica,electric vehicle,0
+Antigua & Barbuda,electric vehicle,0
+Argentina,electric vehicle,1
+Armenia,electric vehicle,0
+Aruba,electric vehicle,0
+Australia,electric vehicle,3
+Austria,electric vehicle,0
+Azerbaijan,electric vehicle,0
+Bahamas,electric vehicle,4
+Bahrain,electric vehicle,3
+Bangladesh,electric vehicle,4
+Barbados,electric vehicle,8
+Belarus,electric vehicle,0
+Belgium,electric vehicle,0
+Belize,electric vehicle,4
+Benin,electric vehicle,0
+Bermuda,electric vehicle,0
+Bhutan,electric vehicle,11
+Bolivia,electric vehicle,0
+Bosnia & Herzegovina,electric vehicle,0
+Botswana,electric vehicle,4
+Bouvet Island,electric vehicle,0
+Brazil,electric vehicle,1
+British Indian Ocean Territory,electric vehicle,0
+British Virgin Islands,electric vehicle,0
+Brunei,electric vehicle,5
+Bulgaria,electric vehicle,1
+Burkina Faso,electric vehicle,0
+Burundi,electric vehicle,0
+Cambodia,electric vehicle,3
+Cameroon,electric vehicle,1
+Canada,electric vehicle,1
+Cape Verde,electric vehicle,0
+Caribbean Netherlands,electric vehicle,0
+Cayman Islands,electric vehicle,0
+Central African Republic,electric vehicle,0
+Chad,electric vehicle,0
+Chile,electric vehicle,0
+China,electric vehicle,5
+Christmas Island,electric vehicle,0
+Cocos (Keeling) Islands,electric vehicle,0
+Colombia,electric vehicle,1
+Comoros,electric vehicle,0
+Congo - Brazzaville,electric vehicle,0
+Congo - Kinshasa,electric vehicle,0
+Cook Islands,electric vehicle,0
+Costa Rica,electric vehicle,1
+Croatia,electric vehicle,0
+Cuba,electric vehicle,0
+Curaçao,electric vehicle,0
+Cyprus,electric vehicle,1
+Czechia,electric vehicle,0
+Côte d’Ivoire,electric vehicle,0
+Denmark,electric vehicle,0
+Djibouti,electric vehicle,0
+Dominica,electric vehicle,0
+Dominican Republic,electric vehicle,1
+Ecuador,electric vehicle,1
+Egypt,electric vehicle,4
+El Salvador,electric vehicle,0
+Equatorial Guinea,electric vehicle,0
+Eritrea,electric vehicle,0
+Estonia,electric vehicle,1
+Eswatini,electric vehicle,0
+Ethiopia,electric vehicle,14
+Falkland Islands (Islas Malvinas),electric vehicle,0
+Faroe Islands,electric vehicle,0
+Fiji,electric vehicle,9
+Finland,electric vehicle,0
+France,electric vehicle,0
+French Guiana,electric vehicle,0
+French Polynesia,electric vehicle,0
+French Southern Territories,electric vehicle,0
+Gabon,electric vehicle,0
+Gambia,electric vehicle,0
+Georgia,electric vehicle,0
+Germany,electric vehicle,0
+Ghana,electric vehicle,4
+Gibraltar,electric vehicle,0
+Greece,electric vehicle,0
+Greenland,electric vehicle,0
+Grenada,electric vehicle,9
+Guadeloupe,electric vehicle,0
+Guam,electric vehicle,0
+Guatemala,electric vehicle,0
+Guernsey,electric vehicle,4
+Guinea,electric vehicle,0
+Guinea-Bissau,electric vehicle,0
+Guyana,electric vehicle,5
+Haiti,electric vehicle,0
+Heard & McDonald Islands,electric vehicle,0
+Honduras,electric vehicle,0
+Hong Kong,electric vehicle,1
+Hungary,electric vehicle,0
+Iceland,electric vehicle,0
+India,electric vehicle,16
+Indonesia,electric vehicle,3
+Iran,electric vehicle,6
+Iraq,electric vehicle,3
+Ireland,electric vehicle,3
+Isle of Man,electric vehicle,5
+Israel,electric vehicle,0
+Italy,electric vehicle,0
+Jamaica,electric vehicle,5
+Japan,electric vehicle,5
+Jersey,electric vehicle,3
+Jordan,electric vehicle,2
+Kazakhstan,electric vehicle,1
+Kenya,electric vehicle,7
+Kiribati,electric vehicle,100
+Kosovo,electric vehicle,0
+Kuwait,electric vehicle,2
+Kyrgyzstan,electric vehicle,0
+Laos,electric vehicle,6
+Latvia,electric vehicle,1
+Lebanon,electric vehicle,2
+Lesotho,electric vehicle,0
+Liberia,electric vehicle,0
+Libya,electric vehicle,2
+Liechtenstein,electric vehicle,0
+Lithuania,electric vehicle,0
+Luxembourg,electric vehicle,0
+Macao,electric vehicle,1
+Madagascar,electric vehicle,0
+Malawi,electric vehicle,8
+Malaysia,electric vehicle,3
+Maldives,electric vehicle,3
+Mali,electric vehicle,0
+Malta,electric vehicle,5
+Marshall Islands,electric vehicle,0
+Martinique,electric vehicle,0
+Mauritania,electric vehicle,0
+Mauritius,electric vehicle,4
+Mayotte,electric vehicle,0
+Mexico,electric vehicle,0
+Micronesia,electric vehicle,0
+Moldova,electric vehicle,0
+Monaco,electric vehicle,0
+Mongolia,electric vehicle,1
+Montenegro,electric vehicle,0
+Montserrat,electric vehicle,0
+Morocco,electric vehicle,2
+Mozambique,electric vehicle,0
+Myanmar (Burma),electric vehicle,6
+Namibia,electric vehicle,4
+Nauru,electric vehicle,0
+Nepal,electric vehicle,7
+Netherlands,electric vehicle,0
+New Caledonia,electric vehicle,0
+New Zealand,electric vehicle,2
+Nicaragua,electric vehicle,0
+Niger,electric vehicle,0
+Nigeria,electric vehicle,3
+Niue,electric vehicle,0
+Norfolk Island,electric vehicle,0
+North Korea,electric vehicle,0
+North Macedonia,electric vehicle,1
+Northern Mariana Islands,electric vehicle,0
+Norway,electric vehicle,0
+Oman,electric vehicle,3
+Pakistan,electric vehicle,4
+Palau,electric vehicle,0
+Palestine,electric vehicle,3
+Panama,electric vehicle,0
+Papua New Guinea,electric vehicle,4
+Paraguay,electric vehicle,0
+Peru,electric vehicle,1
+Philippines,electric vehicle,6
+Pitcairn Islands,electric vehicle,0
+Poland,electric vehicle,0
+Portugal,electric vehicle,0
+Puerto Rico,electric vehicle,1
+Qatar,electric vehicle,2
+Romania,electric vehicle,1
+Russia,electric vehicle,5
+Rwanda,electric vehicle,7
+Réunion,electric vehicle,0
+Samoa,electric vehicle,0
+San Marino,electric vehicle,0
+Saudi Arabia,electric vehicle,4
+Senegal,electric vehicle,0
+Serbia,electric vehicle,0
+Seychelles,electric vehicle,0
+Sierra Leone,electric vehicle,0
+Singapore,electric vehicle,2
+Sint Maarten,electric vehicle,0
+Slovakia,electric vehicle,0
+Slovenia,electric vehicle,0
+Solomon Islands,electric vehicle,0
+Somalia,electric vehicle,0
+South Africa,electric vehicle,4
+South Georgia & South Sandwich Islands,electric vehicle,0
+South Korea,electric vehicle,8
+South Sudan,electric vehicle,0
+Spain,electric vehicle,0
+Sri Lanka,electric vehicle,6
+St. Barthélemy,electric vehicle,0
+St. Helena,electric vehicle,6
+St. Kitts & Nevis,electric vehicle,0
+St. Lucia,electric vehicle,0
+St. Martin,electric vehicle,0
+St. Pierre & Miquelon,electric vehicle,0
+St. Vincent & Grenadines,electric vehicle,0
+Sudan,electric vehicle,0
+Suriname,electric vehicle,0
+Svalbard & Jan Mayen,electric vehicle,0
+Sweden,electric vehicle,0
+Switzerland,electric vehicle,0
+Syria,electric vehicle,4
+São Tomé & Príncipe,electric vehicle,0
+Taiwan,electric vehicle,2
+Tajikistan,electric vehicle,0
+Tanzania,electric vehicle,2
+Thailand,electric vehicle,1
+Timor-Leste,electric vehicle,0
+Togo,electric vehicle,0
+Tokelau,electric vehicle,0
+Tonga,electric vehicle,0
+Trinidad & Tobago,electric vehicle,7
+Tunisia,electric vehicle,0
+Turkmenistan,electric vehicle,0
+Turks & Caicos Islands,electric vehicle,0
+Tuvalu,electric vehicle,0
+Türkiye,electric vehicle,0
+U.S. Outlying Islands,electric vehicle,0
+U.S. Virgin Islands,electric vehicle,0
+Uganda,electric vehicle,6
+Ukraine,electric vehicle,1
+United Arab Emirates,electric vehicle,1
+United Kingdom,electric vehicle,3
+United States,electric vehicle,2
+Uruguay,electric vehicle,0
+Uzbekistan,electric vehicle,2
+Vanuatu,electric vehicle,0
+Vatican City,electric vehicle,0
+Venezuela,electric vehicle,0
+Vietnam,electric vehicle,4
+Wallis & Futuna,electric vehicle,0
+Western Sahara,electric vehicle,0
+Yemen,electric vehicle,0
+Zambia,electric vehicle,7
+Zimbabwe,electric vehicle,5
+Åland Islands,electric vehicle,0
+Afghanistan,tesla,98
+Albania,tesla,97
+Algeria,tesla,97
+American Samoa,tesla,100
+Andorra,tesla,100
+Angola,tesla,100
+Anguilla,tesla,0
+Antarctica,tesla,0
+Antigua & Barbuda,tesla,100
+Argentina,tesla,99
+Armenia,tesla,99
+Aruba,tesla,100
+Australia,tesla,93
+Austria,tesla,100
+Azerbaijan,tesla,99
+Bahamas,tesla,94
+Bahrain,tesla,95
+Bangladesh,tesla,95
+Barbados,tesla,89
+Belarus,tesla,99
+Belgium,tesla,99
+Belize,tesla,96
+Benin,tesla,100
+Bermuda,tesla,100
+Bhutan,tesla,80
+Bolivia,tesla,100
+Bosnia & Herzegovina,tesla,100
+Botswana,tesla,96
+Bouvet Island,tesla,0
+Brazil,tesla,99
+British Indian Ocean Territory,tesla,0
+British Virgin Islands,tesla,100
+Brunei,tesla,91
+Bulgaria,tesla,97
+Burkina Faso,tesla,100
+Burundi,tesla,100
+Cambodia,tesla,95
+Cameroon,tesla,99
+Canada,tesla,97
+Cape Verde,tesla,100
+Caribbean Netherlands,tesla,100
+Cayman Islands,tesla,100
+Central African Republic,tesla,100
+Chad,tesla,100
+Chile,tesla,100
+China,tesla,92
+Christmas Island,tesla,0
+Cocos (Keeling) Islands,tesla,0
+Colombia,tesla,99
+Comoros,tesla,100
+Congo - Brazzaville,tesla,100
+Congo - Kinshasa,tesla,100
+Cook Islands,tesla,100
+Costa Rica,tesla,98
+Croatia,tesla,99
+Cuba,tesla,100
+Curaçao,tesla,100
+Cyprus,tesla,97
+Czechia,tesla,100
+Côte d’Ivoire,tesla,100
+Denmark,tesla,100
+Djibouti,tesla,100
+Dominica,tesla,100
+Dominican Republic,tesla,99
+Ecuador,tesla,99
+Egypt,tesla,93
+El Salvador,tesla,100
+Equatorial Guinea,tesla,100
+Eritrea,tesla,100
+Estonia,tesla,98
+Eswatini,tesla,100
+Ethiopia,tesla,82
+Falkland Islands (Islas Malvinas),tesla,0
+Faroe Islands,tesla,100
+Fiji,tesla,91
+Finland,tesla,99
+France,tesla,100
+French Guiana,tesla,100
+French Polynesia,tesla,100
+French Southern Territories,tesla,0
+Gabon,tesla,100
+Gambia,tesla,100
+Georgia,tesla,99
+Germany,tesla,100
+Ghana,tesla,95
+Gibraltar,tesla,90
+Greece,tesla,99
+Greenland,tesla,100
+Grenada,tesla,91
+Guadeloupe,tesla,100
+Guam,tesla,100
+Guatemala,tesla,100
+Guernsey,tesla,96
+Guinea,tesla,100
+Guinea-Bissau,tesla,100
+Guyana,tesla,95
+Haiti,tesla,100
+Heard & McDonald Islands,tesla,0
+Honduras,tesla,100
+Hong Kong,tesla,97
+Hungary,tesla,100
+Iceland,tesla,99
+India,tesla,74
+Indonesia,tesla,95
+Iran,tesla,93
+Iraq,tesla,95
+Ireland,tesla,90
+Isle of Man,tesla,90
+Israel,tesla,99
+Italy,tesla,100
+Jamaica,tesla,93
+Japan,tesla,93
+Jersey,tesla,88
+Jordan,tesla,96
+Kazakhstan,tesla,98
+Kenya,tesla,91
+Kiribati,tesla,0
+Kosovo,tesla,100
+Kuwait,tesla,96
+Kyrgyzstan,tesla,100
+Laos,tesla,87
+Latvia,tesla,98
+Lebanon,tesla,96
+Lesotho,tesla,100
+Liberia,tesla,100
+Libya,tesla,98
+Liechtenstein,tesla,100
+Lithuania,tesla,99
+Luxembourg,tesla,99
+Macao,tesla,98
+Madagascar,tesla,100
+Malawi,tesla,92
+Malaysia,tesla,92
+Maldives,tesla,97
+Mali,tesla,100
+Malta,tesla,91
+Marshall Islands,tesla,100
+Martinique,tesla,100
+Mauritania,tesla,100
+Mauritius,tesla,92
+Mayotte,tesla,100
+Mexico,tesla,100
+Micronesia,tesla,100
+Moldova,tesla,99
+Monaco,tesla,0
+Mongolia,tesla,99
+Montenegro,tesla,100
+Montserrat,tesla,0
+Morocco,tesla,98
+Mozambique,tesla,100
+Myanmar (Burma),tesla,88
+Namibia,tesla,96
+Nauru,tesla,0
+Nepal,tesla,84
+Netherlands,tesla,99
+New Caledonia,tesla,100
+New Zealand,tesla,93
+Nicaragua,tesla,100
+Niger,tesla,100
+Nigeria,tesla,97
+Niue,tesla,0
+Norfolk Island,tesla,0
+North Korea,tesla,0
+North Macedonia,tesla,99
+Northern Mariana Islands,tesla,100
+Norway,tesla,100
+Oman,tesla,94
+Pakistan,tesla,95
+Palau,tesla,100
+Palestine,tesla,94
+Panama,tesla,100
+Papua New Guinea,tesla,96
+Paraguay,tesla,100
+Peru,tesla,99
+Philippines,tesla,91
+Pitcairn Islands,tesla,0
+Poland,tesla,100
+Portugal,tesla,100
+Puerto Rico,tesla,99
+Qatar,tesla,96
+Romania,tesla,99
+Russia,tesla,90
+Rwanda,tesla,90
+Réunion,tesla,100
+Samoa,tesla,100
+San Marino,tesla,100
+Saudi Arabia,tesla,94
+Senegal,tesla,99
+Serbia,tesla,100
+Seychelles,tesla,100
+Sierra Leone,tesla,100
+Singapore,tesla,92
+Sint Maarten,tesla,100
+Slovakia,tesla,100
+Slovenia,tesla,99
+Solomon Islands,tesla,100
+Somalia,tesla,100
+South Africa,tesla,94
+South Georgia & South Sandwich Islands,tesla,0
+South Korea,tesla,85
+South Sudan,tesla,100
+Spain,tesla,100
+Sri Lanka,tesla,91
+St. Barthélemy,tesla,100
+St. Helena,tesla,91
+St. Kitts & Nevis,tesla,100
+St. Lucia,tesla,100
+St. Martin,tesla,100
+St. Pierre & Miquelon,tesla,0
+St. Vincent & Grenadines,tesla,100
+Sudan,tesla,100
+Suriname,tesla,100
+Svalbard & Jan Mayen,tesla,0
+Sweden,tesla,100
+Switzerland,tesla,100
+Syria,tesla,93
+São Tomé & Príncipe,tesla,100
+Taiwan,tesla,97
+Tajikistan,tesla,100
+Tanzania,tesla,98
+Thailand,tesla,97
+Timor-Leste,tesla,100
+Togo,tesla,100
+Tokelau,tesla,0
+Tonga,tesla,0
+Trinidad & Tobago,tesla,90
+Tunisia,tesla,99
+Turkmenistan,tesla,100
+Turks & Caicos Islands,tesla,100
+Tuvalu,tesla,0
+Türkiye,tesla,100
+U.S. Outlying Islands,tesla,0
+U.S. Virgin Islands,tesla,100
+Uganda,tesla,93
+Ukraine,tesla,99
+United Arab Emirates,tesla,97
+United Kingdom,tesla,88
+United States,tesla,96
+Uruguay,tesla,100
+Uzbekistan,tesla,98
+Vanuatu,tesla,100
+Vatican City,tesla,0
+Venezuela,tesla,99
+Vietnam,tesla,93
+Wallis & Futuna,tesla,0
+Western Sahara,tesla,100
+Yemen,tesla,100
+Zambia,tesla,92
+Zimbabwe,tesla,94
+Åland Islands,tesla,90
+Afghanistan,ev charging,0
+Albania,ev charging,1
+Algeria,ev charging,0
+American Samoa,ev charging,0
+Andorra,ev charging,0
+Angola,ev charging,0
+Anguilla,ev charging,0
+Antarctica,ev charging,0
+Antigua & Barbuda,ev charging,0
+Argentina,ev charging,0
+Armenia,ev charging,1
+Aruba,ev charging,0
+Australia,ev charging,4
+Austria,ev charging,0
+Azerbaijan,ev charging,1
+Bahamas,ev charging,2
+Bahrain,ev charging,2
+Bangladesh,ev charging,1
+Barbados,ev charging,3
+Belarus,ev charging,1
+Belgium,ev charging,1
+Belize,ev charging,0
+Benin,ev charging,0
+Bermuda,ev charging,0
+Bhutan,ev charging,9
+Bolivia,ev charging,0
+Bosnia & Herzegovina,ev charging,0
+Botswana,ev charging,0
+Bouvet Island,ev charging,0
+Brazil,ev charging,0
+British Indian Ocean Territory,ev charging,0
+British Virgin Islands,ev charging,0
+Brunei,ev charging,4
+Bulgaria,ev charging,2
+Burkina Faso,ev charging,0
+Burundi,ev charging,0
+Cambodia,ev charging,2
+Cameroon,ev charging,0
+Canada,ev charging,2
+Cape Verde,ev charging,0
+Caribbean Netherlands,ev charging,0
+Cayman Islands,ev charging,0
+Central African Republic,ev charging,0
+Chad,ev charging,0
+Chile,ev charging,0
+China,ev charging,3
+Christmas Island,ev charging,0
+Cocos (Keeling) Islands,ev charging,0
+Colombia,ev charging,0
+Comoros,ev charging,0
+Congo - Brazzaville,ev charging,0
+Congo - Kinshasa,ev charging,0
+Cook Islands,ev charging,0
+Costa Rica,ev charging,1
+Croatia,ev charging,1
+Cuba,ev charging,0
+Curaçao,ev charging,0
+Cyprus,ev charging,2
+Czechia,ev charging,0
+Côte d’Ivoire,ev charging,0
+Denmark,ev charging,0
+Djibouti,ev charging,0
+Dominica,ev charging,0
+Dominican Republic,ev charging,0
+Ecuador,ev charging,0
+Egypt,ev charging,3
+El Salvador,ev charging,0
+Equatorial Guinea,ev charging,0
+Eritrea,ev charging,0
+Estonia,ev charging,1
+Eswatini,ev charging,0
+Ethiopia,ev charging,4
+Falkland Islands (Islas Malvinas),ev charging,0
+Faroe Islands,ev charging,0
+Fiji,ev charging,0
+Finland,ev charging,1
+France,ev charging,0
+French Guiana,ev charging,0
+French Polynesia,ev charging,0
+French Southern Territories,ev charging,0
+Gabon,ev charging,0
+Gambia,ev charging,0
+Georgia,ev charging,1
+Germany,ev charging,0
+Ghana,ev charging,1
+Gibraltar,ev charging,10
+Greece,ev charging,1
+Greenland,ev charging,0
+Grenada,ev charging,0
+Guadeloupe,ev charging,0
+Guam,ev charging,0
+Guatemala,ev charging,0
+Guernsey,ev charging,0
+Guinea,ev charging,0
+Guinea-Bissau,ev charging,0
+Guyana,ev charging,0
+Haiti,ev charging,0
+Heard & McDonald Islands,ev charging,0
+Honduras,ev charging,0
+Hong Kong,ev charging,2
+Hungary,ev charging,0
+Iceland,ev charging,1
+India,ev charging,10
+Indonesia,ev charging,2
+Iran,ev charging,1
+Iraq,ev charging,2
+Ireland,ev charging,7
+Isle of Man,ev charging,5
+Israel,ev charging,1
+Italy,ev charging,0
+Jamaica,ev charging,2
+Japan,ev charging,2
+Jersey,ev charging,9
+Jordan,ev charging,2
+Kazakhstan,ev charging,1
+Kenya,ev charging,2
+Kiribati,ev charging,0
+Kosovo,ev charging,0
+Kuwait,ev charging,2
+Kyrgyzstan,ev charging,0
+Laos,ev charging,7
+Latvia,ev charging,1
+Lebanon,ev charging,2
+Lesotho,ev charging,0
+Liberia,ev charging,0
+Libya,ev charging,0
+Liechtenstein,ev charging,0
+Lithuania,ev charging,1
+Luxembourg,ev charging,1
+Macao,ev charging,1
+Madagascar,ev charging,0
+Malawi,ev charging,0
+Malaysia,ev charging,5
+Maldives,ev charging,0
+Mali,ev charging,0
+Malta,ev charging,4
+Marshall Islands,ev charging,0
+Martinique,ev charging,0
+Mauritania,ev charging,0
+Mauritius,ev charging,4
+Mayotte,ev charging,0
+Mexico,ev charging,0
+Micronesia,ev charging,0
+Moldova,ev charging,1
+Monaco,ev charging,0
+Mongolia,ev charging,0
+Montenegro,ev charging,0
+Montserrat,ev charging,0
+Morocco,ev charging,0
+Mozambique,ev charging,0
+Myanmar (Burma),ev charging,6
+Namibia,ev charging,0
+Nauru,ev charging,0
+Nepal,ev charging,9
+Netherlands,ev charging,1
+New Caledonia,ev charging,0
+New Zealand,ev charging,5
+Nicaragua,ev charging,0
+Niger,ev charging,0
+Nigeria,ev charging,0
+Niue,ev charging,0
+Norfolk Island,ev charging,0
+North Korea,ev charging,0
+North Macedonia,ev charging,0
+Northern Mariana Islands,ev charging,0
+Norway,ev charging,0
+Oman,ev charging,3
+Pakistan,ev charging,1
+Palau,ev charging,0
+Palestine,ev charging,3
+Panama,ev charging,0
+Papua New Guinea,ev charging,0
+Paraguay,ev charging,0
+Peru,ev charging,0
+Philippines,ev charging,3
+Pitcairn Islands,ev charging,0
+Poland,ev charging,0
+Portugal,ev charging,0
+Puerto Rico,ev charging,0
+Qatar,ev charging,2
+Romania,ev charging,0
+Russia,ev charging,5
+Rwanda,ev charging,3
+Réunion,ev charging,0
+Samoa,ev charging,0
+San Marino,ev charging,0
+Saudi Arabia,ev charging,2
+Senegal,ev charging,1
+Serbia,ev charging,0
+Seychelles,ev charging,0
+Sierra Leone,ev charging,0
+Singapore,ev charging,6
+Sint Maarten,ev charging,0
+Slovakia,ev charging,0
+Slovenia,ev charging,1
+Solomon Islands,ev charging,0
+Somalia,ev charging,0
+South Africa,ev charging,2
+South Georgia & South Sandwich Islands,ev charging,0
+South Korea,ev charging,7
+South Sudan,ev charging,0
+Spain,ev charging,0
+Sri Lanka,ev charging,3
+St. Barthélemy,ev charging,0
+St. Helena,ev charging,3
+St. Kitts & Nevis,ev charging,0
+St. Lucia,ev charging,0
+St. Martin,ev charging,0
+St. Pierre & Miquelon,ev charging,0
+St. Vincent & Grenadines,ev charging,0
+Sudan,ev charging,0
+Suriname,ev charging,0
+Svalbard & Jan Mayen,ev charging,0
+Sweden,ev charging,0
+Switzerland,ev charging,0
+Syria,ev charging,3
+São Tomé & Príncipe,ev charging,0
+Taiwan,ev charging,1
+Tajikistan,ev charging,0
+Tanzania,ev charging,0
+Thailand,ev charging,2
+Timor-Leste,ev charging,0
+Togo,ev charging,0
+Tokelau,ev charging,0
+Tonga,ev charging,0
+Trinidad & Tobago,ev charging,3
+Tunisia,ev charging,1
+Turkmenistan,ev charging,0
+Turks & Caicos Islands,ev charging,0
+Tuvalu,ev charging,0
+Türkiye,ev charging,0
+U.S. Outlying Islands,ev charging,0
+U.S. Virgin Islands,ev charging,0
+Uganda,ev charging,1
+Ukraine,ev charging,0
+United Arab Emirates,ev charging,2
+United Kingdom,ev charging,9
+United States,ev charging,2
+Uruguay,ev charging,0
+Uzbekistan,ev charging,0
+Vanuatu,ev charging,0
+Vatican City,ev charging,0
+Venezuela,ev charging,1
+Vietnam,ev charging,3
+Wallis & Futuna,ev charging,0
+Western Sahara,ev charging,0
+Yemen,ev charging,0
+Zambia,ev charging,1
+Zimbabwe,ev charging,1
+Åland Islands,ev charging,10

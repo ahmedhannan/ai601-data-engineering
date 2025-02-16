@@ -1,0 +1,163 @@
+date,keyword,interest_score
+2024-02-11,electric vehicle,2
+2024-02-18,electric vehicle,2
+2024-02-25,electric vehicle,2
+2024-03-03,electric vehicle,2
+2024-03-10,electric vehicle,2
+2024-03-17,electric vehicle,2
+2024-03-24,electric vehicle,2
+2024-03-31,electric vehicle,2
+2024-04-07,electric vehicle,2
+2024-04-14,electric vehicle,1
+2024-04-21,electric vehicle,2
+2024-04-28,electric vehicle,1
+2024-05-05,electric vehicle,1
+2024-05-12,electric vehicle,1
+2024-05-19,electric vehicle,1
+2024-05-26,electric vehicle,2
+2024-06-02,electric vehicle,1
+2024-06-09,electric vehicle,1
+2024-06-16,electric vehicle,1
+2024-06-23,electric vehicle,1
+2024-06-30,electric vehicle,1
+2024-07-07,electric vehicle,1
+2024-07-14,electric vehicle,2
+2024-07-21,electric vehicle,2
+2024-07-28,electric vehicle,1
+2024-08-04,electric vehicle,1
+2024-08-11,electric vehicle,1
+2024-08-18,electric vehicle,2
+2024-08-25,electric vehicle,1
+2024-09-01,electric vehicle,1
+2024-09-08,electric vehicle,1
+2024-09-15,electric vehicle,1
+2024-09-22,electric vehicle,1
+2024-09-29,electric vehicle,1
+2024-10-06,electric vehicle,1
+2024-10-13,electric vehicle,1
+2024-10-20,electric vehicle,1
+2024-10-27,electric vehicle,1
+2024-11-03,electric vehicle,1
+2024-11-10,electric vehicle,2
+2024-11-17,electric vehicle,2
+2024-11-24,electric vehicle,1
+2024-12-01,electric vehicle,2
+2024-12-08,electric vehicle,1
+2024-12-15,electric vehicle,1
+2024-12-22,electric vehicle,1
+2024-12-29,electric vehicle,1
+2025-01-05,electric vehicle,1
+2025-01-12,electric vehicle,1
+2025-01-19,electric vehicle,2
+2025-01-26,electric vehicle,2
+2025-02-02,electric vehicle,2
+2025-02-09,electric vehicle,2
+2025-02-16,electric vehicle,1
+2024-02-11,tesla,65
+2024-02-18,tesla,65
+2024-02-25,tesla,67
+2024-03-03,tesla,69
+2024-03-10,tesla,68
+2024-03-17,tesla,71
+2024-03-24,tesla,73
+2024-03-31,tesla,79
+2024-04-07,tesla,71
+2024-04-14,tesla,80
+2024-04-21,tesla,93
+2024-04-28,tesla,81
+2024-05-05,tesla,69
+2024-05-12,tesla,72
+2024-05-19,tesla,68
+2024-05-26,tesla,67
+2024-06-02,tesla,68
+2024-06-09,tesla,75
+2024-06-16,tesla,70
+2024-06-23,tesla,66
+2024-06-30,tesla,73
+2024-07-07,tesla,78
+2024-07-14,tesla,69
+2024-07-21,tesla,82
+2024-07-28,tesla,67
+2024-08-04,tesla,67
+2024-08-11,tesla,69
+2024-08-18,tesla,68
+2024-08-25,tesla,64
+2024-09-01,tesla,61
+2024-09-08,tesla,62
+2024-09-15,tesla,61
+2024-09-22,tesla,64
+2024-09-29,tesla,63
+2024-10-06,tesla,85
+2024-10-13,tesla,83
+2024-10-20,tesla,86
+2024-10-27,tesla,71
+2024-11-03,tesla,95
+2024-11-10,tesla,100
+2024-11-17,tesla,86
+2024-11-24,tesla,83
+2024-12-01,tesla,83
+2024-12-08,tesla,86
+2024-12-15,tesla,86
+2024-12-22,tesla,83
+2024-12-29,tesla,98
+2025-01-05,tesla,88
+2025-01-12,tesla,80
+2025-01-19,tesla,84
+2025-01-26,tesla,85
+2025-02-02,tesla,80
+2025-02-09,tesla,78
+2025-02-16,tesla,67
+2024-02-11,ev charging,2
+2024-02-18,ev charging,2
+2024-02-25,ev charging,2
+2024-03-03,ev charging,2
+2024-03-10,ev charging,2
+2024-03-17,ev charging,2
+2024-03-24,ev charging,2
+2024-03-31,ev charging,2
+2024-04-07,ev charging,2
+2024-04-14,ev charging,2
+2024-04-21,ev charging,2
+2024-04-28,ev charging,2
+2024-05-05,ev charging,2
+2024-05-12,ev charging,2
+2024-05-19,ev charging,2
+2024-05-26,ev charging,2
+2024-06-02,ev charging,2
+2024-06-09,ev charging,2
+2024-06-16,ev charging,2
+2024-06-23,ev charging,2
+2024-06-30,ev charging,2
+2024-07-07,ev charging,2
+2024-07-14,ev charging,2
+2024-07-21,ev charging,2
+2024-07-28,ev charging,2
+2024-08-04,ev charging,2
+2024-08-11,ev charging,2
+2024-08-18,ev charging,2
+2024-08-25,ev charging,2
+2024-09-01,ev charging,2
+2024-09-08,ev charging,2
+2024-09-15,ev charging,2
+2024-09-22,ev charging,2
+2024-09-29,ev charging,2
+2024-10-06,ev charging,2
+2024-10-13,ev charging,2
+2024-10-20,ev charging,2
+2024-10-27,ev charging,2
+2024-11-03,ev charging,2
+2024-11-10,ev charging,2
+2024-11-17,ev charging,2
+2024-11-24,ev charging,2
+2024-12-01,ev charging,2
+2024-12-08,ev charging,2
+2024-12-15,ev charging,2
+2024-12-22,ev charging,2
+2024-12-29,ev charging,2
+2025-01-05,ev charging,2
+2025-01-12,ev charging,2
+2025-01-19,ev charging,2
+2025-01-26,ev charging,2
+2025-02-02,ev charging,2
+2025-02-09,ev charging,2
+2025-02-16,ev charging,2
